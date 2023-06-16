@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi👋, I'm Peter Emmies.</h1>
-<p align="center>
-  <a href='https://petemz.netlify.com' target="_blank">me<a/>, 
+<p align="center">
+  <a href="https://petemz.netlify.com">me<a/>, 
   <a href="https://twitter.com/petemz_">tweets</a>, 
   <a href="https://instagram.com/petemz">instagram</a>
 </p>
