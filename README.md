@@ -1,4 +1,5 @@
-### Hi👋, I'm Peter Emmies.
+
+<p style="text-align: center;">Hi👋, I'm Peter Emmies.</p>
 <a href='https://petemz.netlify.com'>me<a/>
 
 <!--
