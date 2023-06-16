@@ -1,5 +1,5 @@
 
-<h1 text-align: center>Hi👋, I'm Peter Emmies.</h1>
+<h1 align='center'>Hi👋, I'm Peter Emmies.</h1>
 <a href='https://petemz.netlify.com'>me<a/>
 
 <!--
