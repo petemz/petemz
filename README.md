@@ -1,7 +1,10 @@
 
-<h1 align='center'>Hi👋, I'm Peter Emmies.</h1>
-<a href='https://petemz.netlify.com'>me<a/>
-
+<h1 align="center">Hi👋, I'm Peter Emmies.</h1>
+<p align="center>
+  <a href='https://petemz.netlify.com' target="_blank">me<a/>, 
+  <a href="https://twitter.com/petemz_">tweets</a>, 
+  <a href="https://instagram.com/petemz">instagram</a>
+</p>
 <!--
 **petemz/petemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
