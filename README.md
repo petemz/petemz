@@ -4,6 +4,10 @@
   <a href="https://twitter.com/petemz_">tweets</a>, 
   <a href="https://instagram.com/petemz">instagram</a>
 </p>
+
+<p>I am a Frontend Web Developer, with a passion for problem-solving and creativity.</p> 
+<p>I specialize in creating interactive and responsive web applications, with skills in JavaScript, Typescript, React.js, Vue.js, HTML, CSS, Tailwind CSS, Bootstrap, Git, Github, Cybersecurity and more.</p>
+<p>I also love playing chess♟️😊</p>
 <!--
 **petemz/petemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
