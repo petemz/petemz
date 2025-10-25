@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Peter Emmies</h1>
 <h3 align="center">Frontend Engineer • Building interactive experiences for the modern web</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://petemz.netlify.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://twitter.com/petemz_" target="_blank">🐦 Twitter</a> •
   <a href="https://instagram.com/petemz" target="_blank">📸 Instagram</a>
-</p>
+</p> -->
 
 ---
 
