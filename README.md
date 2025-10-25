@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Peter Emmies</h1>
-<h3 align="center">Frontend Engineer</h3>
+<h2 align="center">Frontend Engineer</h3>
 
 <!-- <p align="center">
   <a href="https://petemz.netlify.com" target="_blank">🌐 Portfolio</a> •
