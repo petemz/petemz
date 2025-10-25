@@ -6,9 +6,9 @@
   <a href="https://twitter.com/petemz_" target="_blank">🐦 Twitter</a> •
   <a href="https://instagram.com/petemz" target="_blank">📸 Instagram</a>
 </p> 
--->
----
 
+---
+-->
 ### 🧑‍💻 About Me  
 I'm a **Frontend Engineer** passionate about crafting seamless, high-performing digital experiences.  
 I enjoy transforming ideas into **scalable, responsive, and accessible** web applications — blending thoughtful design with solid engineering.  
