@@ -20,7 +20,7 @@ Currently exploring the intersection of **frontend architecture**, **AI**, and *
 
 ### ⚙️ Tech Stack  
 #### Frontend  
-🟦 React • Next.js • React Native • TypeScript • JavaScript • Tailwind CSS • Redux • Context API  
+🟦 React • Vue • Next.js • React Native • TypeScript • JavaScript • Tailwind CSS • Redux • Context API  
 
 #### Backend & Databases  
 🟨 Go • Python • PostgreSQL • MongoDB  
